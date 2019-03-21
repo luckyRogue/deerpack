@@ -1,0 +1,32 @@
+{
+  "name": "ezip",
+  "version": "1.0.0",
+  "description": "easy npm zip",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "zip",
+    "pack",
+    "delete-dist"
+  ],
+  "author": "songxiaoyu",
+  "license": "ISC",
+  "devDependencies": {
+    "zip-local": "^0.3.4"
+  },
+  "bin": {
+    "ezip": "./bin/index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/luckyRogue/ezip/issues"
+  },
+  "homepage": "https://github.com/luckyRogue/ezip#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckyRogue/ezip.git"
+  },
+  "dependencies": {
+    "colors": "^1.3.3",
+    "yargs": "^13.2.2"
+  }
+}
