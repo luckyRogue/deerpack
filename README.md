@@ -14,9 +14,9 @@
 
 - 压缩后删除源文件夹 (-r)
 
-如果当前目录下有目录abc，你需要压缩abc,可以eazypack abc
+如果当前目录下有目录abc，你需要压缩abc,可以deerpack abc
 
-如果当前目录下有目录abc，你需要压缩cba,可以eazypack abc -n cba
+如果当前目录下有目录abc，你需要压缩cba,可以deerpack abc -n cba
 
 
 
