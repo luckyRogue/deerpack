@@ -1,6 +1,6 @@
 {
   "name": "deerpack",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "easy npm zip",
   "main": "index.js",
   "scripts": {},
